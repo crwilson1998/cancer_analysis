@@ -1,2 +1,1 @@
-# cancer_analysis
-This repository holds my project in which I worked on cancer data using SparkSQL
+This repository holds all of my personal projects 
